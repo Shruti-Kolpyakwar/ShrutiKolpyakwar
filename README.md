@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Eco-Friendly E-Commerce Website](https://github.com/ShrutiKolpyakwar/E-Commersewebsite)
 
-- 🌱 I’m currently learning **Machine Learning Course From Udacity**
+- 🌱 I’m currently learning have Completed AI and ML Course From Besant Technology
 
 - 👯 I’m looking to collaborate on **Building sustainable tech solutions and eco-friendly digital platforms, Enhancing features of eco-commerce websites (wishlist, chatbot, product recommendations, rewards system).**
 
